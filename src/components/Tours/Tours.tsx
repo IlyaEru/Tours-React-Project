@@ -1,4 +1,3 @@
-import React from 'react';
 import TourView from '../TourView/TourView';
 import { StyledTours } from './Tours.style';
 
